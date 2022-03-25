@@ -1,0 +1,11 @@
+#custom_aliases
+alias update="sudo apt update"
+alias upgrade="sudo apt upgrade"
+alias remove="sudo apt purge --auto-remove"
+alias vpn="sudo openvpn"
+alias get="sudo apt install"
+
+alias deb="sudo dpkg -i"
+alias fix="sudo apt install -f"
+alias vpnc="warp-cli connect"
+alias vpnd="warp-cli disconnect"
